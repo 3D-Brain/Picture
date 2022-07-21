@@ -37,3 +37,4 @@
 #### 开始调参（电池是临时的，正真使用的是3S电池，哈哈哈）
 ![image](https://github.com/3D-Brain/Picture/blob/master/%E9%9A%8F%E6%8B%8D%E8%8A%B1%E7%B5%AE/2022_SmartCar/9_%E5%BC%80%E5%A7%8B%E8%B0%83%E5%8F%82.jpg)
 
+#### 是不是有点意犹未尽呀！嘿嘿，麻烦转到文件夹中查看更多哦，下载后查看效果更好，嘿嘿嘿！！！
