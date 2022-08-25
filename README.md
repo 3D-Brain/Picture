@@ -4,7 +4,7 @@
 ### 这是我第一次带队参加比赛，并且基本没有人指导我，硬件设计和程序设计均由我一人完成，硬件焊接全部为手工焊接，最终成功参赛并取得省级二等奖
 
 #### 核心板
-![image](https://github.com/3D-Brain/Picture/blob/master/%E9%9A%8F%E6%8B%8D%E8%8A%B1%E7%B5%AE/2021_SmartCar/4_%E6%A0%B8%E5%BF%83%E6%9D%BF.jpg)
+![contents](https://github.com/3D-Brain/Picture/blob/master/%E9%9A%8F%E6%8B%8D%E8%8A%B1%E7%B5%AE/2021_SmartCar/4_%E6%A0%B8%E5%BF%83%E6%9D%BF.jpg)
 
 #### 电磁运放板
 ![image](https://github.com/3D-Brain/Picture/blob/master/%E9%9A%8F%E6%8B%8D%E8%8A%B1%E7%B5%AE/2021_SmartCar/3_%E7%94%B5%E7%A3%81%E8%BF%90%E6%94%BE%E6%9D%BF.jpg)
